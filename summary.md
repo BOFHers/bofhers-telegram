@@ -7,6 +7,7 @@ Resumen de actividad.
 * Systemd es una mierda
 * SSHFS es una mierda
 * Hemos inaugurado el kickban
+* Los niños han descubierto /
 
 ## 20190501
 
