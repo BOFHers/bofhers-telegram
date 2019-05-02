@@ -1,1 +1,1 @@
-# bofhers-telegram (The Fu^hinest Manual)
+# bofhers-telegram (The Fu^Hinest Manual)
