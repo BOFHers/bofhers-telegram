@@ -21,7 +21,7 @@ Resumen de actividad.
 
 ## Antes
 
-* [La BOFHencuesta](bit.ly/encuestaBOFH2019), ¿te lo vas a perder?.
+* [La BOFHencuesta](https://bit.ly/encuestaBOFH2019), ¿te lo vas a perder?.
 * Flame tortilla.
 * Flame editores.
 * Flame systemd.
