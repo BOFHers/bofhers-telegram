@@ -12,7 +12,7 @@ Resumen de actividad.
 
 ## 20190502
 
-* Flame regalos del día de la madre. Winner: la báscula de `@Marcos`.
+* Flame regalos del día de la madre. Winner: [la báscula](https://www.amazon.es/AA-SS-Básculas-baño-gordas-analizador/dp/B07HJ6866F/) de `@Marcos`.
 * RedHat ha cambiado el logo ([related](https://www.omgubuntu.co.uk/2019/05/red-hat-has-changed-its-logo-for-the-first-time-in-20-years)).
 * `@alexandernst` no sabía lo de TORONTONTERO (WTF!).
 * Meterse con PHP.
@@ -29,7 +29,7 @@ Resumen de actividad.
 
 ## Antes
 
-* [La BOFHencuesta](https://bit.ly/encuestaBOFH2019), ¿te lo vas a perder?.
+* [La BOFHencuesta](https://bit.ly/encuestaBOFH2019), ¿te lo vas a perder?. ([ver resultados](https://docs.google.com/forms/d/e/1FAIpQLSfD082COFdV_SKvkLWISkEdqeKWEe7h0Pb-uDscaguwjyJZRA/viewanalytics))
 * Flame tortilla.
 * Flame editores.
 * Flame systemd.
