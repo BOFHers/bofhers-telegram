@@ -4,6 +4,7 @@ Resumen de actividad.
 
 ## 20190503
 
+* Confesiones, unas más jugosas que otras
 * Flame hardware: Fuji vs IBM vs Dell
 * Subir a producción un viernes, YAY or NAY?
 * Nombres de niñas
