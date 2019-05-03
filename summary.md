@@ -4,6 +4,9 @@ Resumen de actividad.
 
 ## 20190503
 
+* Flame hardware: Fuji vs IBM vs Dell
+* Subir a producción un viernes, YAY or NAY?
+* Nombres de niñas
 * De buena madrugada `@Marcos` nos ha contado [*lo suyo* con 17472](https://threadreaderapp.com/thread/1124059896532672517.html). ¡¡Enhorabuena meu!!.
 
 ## 20190502
