@@ -2,6 +2,10 @@
 
 Resumen de actividad.
 
+## 20190503
+
+* `@Marcos` nos ha contado [*lo suyo* con 17472](https://threadreaderapp.com/thread/1124059896532672517.html). ¡¡Enhorabuena meu!!.
+
 ## 20190502
 
 * Flame regalos del día de la madre. Winner: la báscula de `@Marcos`.
