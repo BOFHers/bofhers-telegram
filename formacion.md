@@ -5,3 +5,4 @@
 * [Coursera](https://www.coursera.org/).
 * [Udemy](https://www.udemy.com/).
 * [Udacity](https://eu.udacity.com/).
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/).
