@@ -6,4 +6,5 @@
 * [Udemy](https://www.udemy.com/).
 * [Udacity](https://eu.udacity.com/).
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/).
-* [Plataforma de desafíos de seguridad del CCN-CERT](https://atenea.ccn-cert.cni.es/home)
+* [ATENEA](https://atenea.ccn-cert.cni.es/home): plataforma de desafíos de seguridad del CCN-CERT. ATENEA es una plataforma de desafíos de seguridad informática compuesta por diferentes retos que abarcan diferentes campos, como Criptografía y Esteganografía, Exploiting, Forense, Networking y Reversing, entre otros.
+
