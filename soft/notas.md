@@ -9,3 +9,4 @@ Software para tomar notas de forma rápida e intuitiva (dejando a un lado el caj
 - [Snp.io](https://snp.io/)
 - [Google Keep](https://keep.google.com)
 - [Joplin Notes](https://github.com/laurent22/joplin)
+- [Cherrytree](https://www.giuspen.com/cherrytree/)
