@@ -4,6 +4,7 @@ Resumen de actividad.
 
 ## 20190504
 
+* Flame en condiciones sobre php
 * Flame sobre software de *note-taking*, se ha creado un [soft/notas.md](soft/notas.md) para apuntar todas las aportaciones
 * Flame sobre portales de formación, se ha creado un [formacion.md](formacion.md) para apuntar enlaces
 
