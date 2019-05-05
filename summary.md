@@ -2,6 +2,11 @@
 
 Resumen de actividad.
 
+## 20190505
+
+* Flame sobre php
+* Serpientes, arañas, ratones y otros animales comestibles y/o aptos para ensalada de veganos
+
 ## 20190504
 
 * Flame en condiciones sobre php
