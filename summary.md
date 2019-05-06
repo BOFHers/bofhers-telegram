@@ -2,6 +2,10 @@
 
 Resumen de actividad.
 
+## 20190506
+
+* Seguros médicos privados, diferencia entre Españistán y USAlandia.
+
 ## 20190505
 
 * Flame sobre php
