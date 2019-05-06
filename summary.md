@@ -5,6 +5,11 @@ Resumen de actividad.
 ## 20190506
 
 * Seguros médicos privados, diferencia entre Españistán y USAlandia.
+* No hay día que no se hable de PHP. Saludad a Rasmus [linkedin.com/in/rlerdorf/](https://www.linkedin.com/in/rlerdorf/)
+* Proteo nos va a invitar a fideuá a todos los valencianos para celebrar lo bien que va su conexión a Internet
+* La nueva terminal de Windows, ahora con emojis
+* Emojis en shell, really?
+* BASH, ZSH, otros?
 
 ## 20190505
 
