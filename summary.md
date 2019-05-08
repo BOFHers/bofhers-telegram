@@ -2,6 +2,14 @@
 
 Resumen de actividad.
 
+## 20190507
+
+* Flame sobre Los Altos del Golán!!!!  (increible, pero cierto)
+* Abe saca el libro gordo de historia. No parece muy efectivo!
+* La conclusión es que la culpa es de los gilipollas. Y del PHP.
+* Tratamos de patear el caballo muerto de Vox. Acabamos colgando fotos de los retoños de los BOFH montando caballos vivos
+* Buscamos nombres para la segunda release de `@Marcos`.
+
 ## 20190506
 
 * Seguros médicos privados, diferencia entre Españistán y USAlandia.
