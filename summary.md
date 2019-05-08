@@ -2,6 +2,15 @@
 
 Resumen de actividad.
 
+## 20190508
+
+* Spanglish
+* CR, LF, y CRr+LF (emacs tiene un modo para eso...)
+* O'Rly greatest hits
+* Memorabilia variada
+* Ya somos 286!!!
+* PHP (no podemos estar sin él)
+
 ## 20190507
 
 * Flame sobre Los Altos del Golán!!!!  (increible, pero cierto)
