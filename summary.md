@@ -2,6 +2,14 @@
 
 Resumen de actividad.
 
+## 20190509
+
+* Como hacer scrape de 5.000.000 de páginas al día sin usar PHP ni que te baneen de tu proveedor.
+* Un gallego va a un bar de Lugo y en el ticket no hay un dato correcto. Empezando por el colacao.
+* NAS: WD a muerte, Seagate ni para los datos de otro.
+* Somos 288. Pide a alguien que te lo rime.
+* Con PHP todos los problemas anteriores no existen.
+
 ## 20190508
 
 * Spanglish
