@@ -2,6 +2,13 @@
 
 Resumen de actividad.
 
+## 20190510
+
+* Scrape de ecommerce 
+* ¿Venderías tu culo por dinero?
+* Ideas para montar negocios
+* Se habla mucho de PHP aquí. ¿Y qué?
+
 ## 20190509
 
 * Como hacer scrape de 5.000.000 de páginas al día sin usar PHP ni que te baneen de tu proveedor.
