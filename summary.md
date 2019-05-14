@@ -2,6 +2,14 @@
 
 Resumen de actividad.
 
+
+## 20190511
+
+* Oracle, malo, malo, no bueno. 
+* Idea para red social, sí, no, no queda claro
+* Top Brasas (Sí, son esos)
+* PHP
+
 ## 20190510
 
 * Scrape de ecommerce 
