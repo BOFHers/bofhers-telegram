@@ -2,7 +2,15 @@
 
 Resumen de actividad.
 
+## 20190512
 
+* PHP versus Python. Vídeo de youtube
+* drbl, blackharddi, clonezilla
+* Cambio climático. Y la culpa no es del PHP. 
+* Energías renovables, nucleares, ¿no, gracias?
+* Retomamos la instalación en múltiples equipos pero seguimos hablando
+  de opciones energéticas. 
+ 
 ## 20190511
 
 * Oracle, malo, malo, no bueno. 
