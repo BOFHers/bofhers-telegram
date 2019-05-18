@@ -2,6 +2,16 @@
 
 Resumen de actividad.
 
+## 20190513 - 20190518
+
+* PHP sucks (big time)
+* Alguien va a hacer una red social que lo va a petar (no hay una descripción detallada de la idea)
+* Alguien esta haciendo una app para fichar horas. Dice que va a ser un bombazo! Y tendrá GIFs
+* Hemos descubierto que podemos buscar nombres de lenguajes de programación en paginas porno
+* MacOS y Macbook Pro sobre ARM
+* Hierro vs virtualizado
+* Centrales nucleares vs energia limpia
+
 ## 20190512
 
 * PHP versus Python. Vídeo de youtube
