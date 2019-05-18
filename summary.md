@@ -10,7 +10,6 @@ Resumen de actividad.
 * Hemos descubierto que podemos buscar nombres de lenguajes de programación en paginas porno
 * MacOS y Macbook Pro sobre ARM
 * Hierro vs virtualizado
-* Centrales nucleares vs energia limpia
 
 ## 20190512
 
