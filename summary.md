@@ -2,6 +2,19 @@
 
 Resumen de actividad.
 
+## 20190520
+
+* Huawei y el problemón que tienen
+* Guerra comercial China vs USA (part 2)
+* Alguien tiene cumpleaños
+* ¿Tanto os cuesta pagar 10€ por Netflix? vs ¡Me bajo las cosas porque no estan en Netflix!
+* PHP es peor que el zika
+
+## 20190519
+
+* PHP es mierda seca
+* Guerra comercial China vs USA
+
 ## 20190513 - 20190518
 
 * PHP sucks (big time)
