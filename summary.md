@@ -2,6 +2,13 @@
 
 Resumen de actividad.
 
+## 20190521
+
+* Huawei y el problemón que tiene
+* Huawei y el problemón que tenemos
+* Huawei y el posible farol que se han marcado
+* Piratear es malo. Piratear es bueno. Si y no. Y todo lo contrario. (y un par de "tus muertos")
+
 ## 20190520
 
 * Huawei y el problemón que tienen
