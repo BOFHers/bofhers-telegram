@@ -8,6 +8,7 @@ Resumen de actividad.
 * Huawei y el problemón que tenemos
 * Huawei y el posible farol que se han marcado
 * Piratear es malo. Piratear es bueno. Si y no. Y todo lo contrario. (y un par de "tus muertos")
+* Guerra comercial China vs USA (part 3)
 
 ## 20190520
 
