@@ -10,6 +10,8 @@ Listado de ofertas de trabajo relacionadas con el mundo BOFH, dev, devop y demá
 
 - *20190510*: En [@collabora](https://twitter.com/collabora) (remoto) buscan sysadmins ([fuente](https://jobs.lever.co/collabora/ee6e283f-b03e-439c-947a-c3358a1c1631)) - #chef #linux #kubernetes #inthecloud
 
+- *20190522*: @platonbjs en telegram busca sysadmin senior en correo electrónico open source #dovecot #postfix #horde #spamassasin #roundcube.
+
 ## Nota
 
 Si quieres agregar la tuya, PR con este mismo formato:
