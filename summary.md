@@ -2,6 +2,12 @@
 
 Resumen de actividad.
 
+## 20190522
+
+* Tuiters
+* PHP es una mierda
+* Marcos ya ha encontrado nombre para su nueva app
+
 ## 20190521
 
 * Huawei y el problemón que tiene
