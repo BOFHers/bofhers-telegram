@@ -2,6 +2,13 @@
 
 Resumen de actividad.
 
+## 20190523
+
+* Marcos ha hecho otro fork
+* Alguien está llorando porque no le gusta su trabajo
+* Algo de pelar unos cables y meterlos por unos switches, o VLANes, o Mikrotiks o que se yo...
+* ¿Es posible que Graphic Injection y Develatio hagan una app para multi trillonarios?
+
 ## 20190522
 
 * Tuiters
