@@ -5,6 +5,7 @@ Resumen de actividad.
 ## 20190526
 
 * Código heredado. Pesadillas varias. 
+* In progress, do not touch. 
 
 ## 20190525
 
