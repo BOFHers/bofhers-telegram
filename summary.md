@@ -5,7 +5,9 @@ Resumen de actividad.
 ## 20190526
 
 * Código heredado. Pesadillas varias. 
-* In progress, do not touch. 
+* Móvil europeo. 
+* Lenguajes de programación, PHP, Python, C, Rust, Go. Ojito con los overflows. 
+* Elecciones, `@Prote0` presidente de mesa.
 
 ## 20190525
 
