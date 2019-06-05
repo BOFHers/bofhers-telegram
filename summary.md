@@ -2,6 +2,10 @@
 
 Resumen de actividad.
 
+## 20190526
+
+* Código heredado. Pesadillas varias. 
+
 ## 20190525
 
 * Recuperación de desastre y networking
