@@ -2,6 +2,11 @@
 
 Resumen de actividad.
 
+## 20190527
+
+* Elecciones
+* In progress...
+
 ## 20190526
 
 * Código heredado. Pesadillas varias. 
