@@ -2,6 +2,13 @@
 
 Resumen de actividad.
 
+## 20190524
+
+* De ser bofh, de certificaciones e HIGINIERIAS.
+* De peritos y peritajes.
+* De cultura y Cultura, y de piratería.
+* Arroces con cosas. 
+
 ## 20190523
 
 * Marcos ha hecho otro fork
