@@ -6,7 +6,11 @@ Resumen de actividad.
 
 * Elecciones
 * El eterno flame PHP vs Python
-* In progress...
+* Agile y Scrum. 
+* Excel como ML. 
+* Lusers y su dificultad para articular un mensaje de error.
+* Se busca nombre para la app de fichaje de `@alexandernst`
+* Cuantos de aqui hacen deploy con algun tipo de herramienta de automaticacion?
 
 ## 20190526
 
