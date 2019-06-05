@@ -5,6 +5,7 @@ Resumen de actividad.
 ## 20190527
 
 * Elecciones
+* El eterno flame PHP vs Python
 * In progress...
 
 ## 20190526
