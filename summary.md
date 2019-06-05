@@ -2,6 +2,12 @@
 
 Resumen de actividad.
 
+## 20190525
+
+* Recuperación de desastre y networking
+* Adelgazar, asignatura pendiente en el grupo
+* Mañana hay que ir a votar. 
+
 ## 20190524
 
 * De ser bofh, de certificaciones e HIGINIERIAS.
