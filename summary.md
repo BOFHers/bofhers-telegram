@@ -8,6 +8,10 @@ Resumen de actividad.
 * La peana como unidad de medida de salario.
 * Servidores de base de datos MOB.
 
+## 20190530
+
+* Work in progress...
+
 ## 20190529
 
 * Aventuras con los telecos. Latencias, Starlink. 
