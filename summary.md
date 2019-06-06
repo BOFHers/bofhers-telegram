@@ -2,6 +2,17 @@
 
 Resumen de actividad.
 
+## 20190528
+
+* Clientes que no pagan.
+* Vender código generado por otros.
+* Resultados "curiosos" en las elecciones.
+* Puenteando a un "responsable". 
+* IBM, consultores, software legacy"
+* PRL y EPIs
+* AS400, Mare Nostrum
+* Es "rm -rf", por $DEITY 
+
 ## 20190527
 
 * Elecciones
