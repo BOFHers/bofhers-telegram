@@ -2,6 +2,12 @@
 
 Resumen de actividad.
 
+## 20190606
+
+* Fotógrafos y cámaras.
+* La peana como unidad de medida de salario.
+* Servidores de base de datos MOB.
+
 ## 20190528
 
 * Clientes que no pagan.
