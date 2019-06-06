@@ -10,7 +10,13 @@ Resumen de actividad.
 
 ## 20190530
 
-* Work in progress...
+* Camisetas, hipocondrías, Scrum
+* 1&1, PHP 7.2, sordomudos llamando al servicio técnico. :?
+* Sysadmins y automatización.
+* Login seguro (token, QR, 2FA...)
+* La app del que ya saben...
+* Como promover buenas prácticas (no lanzar scripts con rm -rf como
+  root)
 
 ## 20190529
 
