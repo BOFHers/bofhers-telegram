@@ -8,6 +8,13 @@ Resumen de actividad.
 * La peana como unidad de medida de salario.
 * Servidores de base de datos MOB.
 
+## 20190529
+
+* Aventuras con los telecos. Latencias, Starlink. 
+* A vueltas co la app de `@alexandernst` 
+* Odoo
+* SEO
+
 ## 20190528
 
 * Clientes que no pagan.
