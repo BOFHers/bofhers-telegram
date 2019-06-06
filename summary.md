@@ -2,6 +2,15 @@
 
 Resumen de actividad.
 
+## 20190606
+
+* Fotógrafos y cámaras
+* La peana como unidad de medida de salario
+* Servidores de bases de datos MDB
+
+
+[... missing data...] 
+
 ## 20190527
 
 * Elecciones
