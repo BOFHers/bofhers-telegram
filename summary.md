@@ -2,6 +2,9 @@
 
 Resumen de actividad.
 
+## 20191030
+* `@Alexander` entonando un mea culpa, hay foto. Nada más que decir señoría.
+
 ## 20190606
 
 * Fotógrafos y cámaras.
