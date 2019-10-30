@@ -4,8 +4,8 @@ Resumen de actividad.
 
 ## 20191030
 * `@Alexander` entonando un mea culpa, hay foto. Nada más que decir señoría.
-Imagen como prueba adjunta:
-  https://imgur.com/UJPixT6
+* Imagen como prueba adjunta:
+    * https://imgur.com/UJPixT6
 
 ## 20190606
 
